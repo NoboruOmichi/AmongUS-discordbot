@@ -39,6 +39,7 @@
     - （check_reactionID.pyでIDを確認する際は、プログラム内のテキストチャンネルID（DEBUG_CHANNEL_ID）を書き換える必要あり）
 
 - プログラムの実行は　python discord.py だけで実行できる。
+<br />
 
 ## 以下はHerokuでdiscord.pyを実行するための手順
 （サンプルのReadmeを引用）
